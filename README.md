@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-```javascript```
+```javascript
 
 Const Lucas = {
 name: 'Lucas silva do amaral',
@@ -22,4 +22,4 @@ from: 'Morro redondo RS'
 
 ```
 
-
+![Lucas-Silva-Amaral GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Silva-Amaral&show_icons=true&theme=midnight-purple)
