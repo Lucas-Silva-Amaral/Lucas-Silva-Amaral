@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Lucas-Silva-Amaral/Lucas-Silva-Amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+```javascript```
+
+Const Lucas = {
+name: 'Lucas silva do amaral',
+age: '26'
+from: 'Morro redondo RS'
+
+```
+
+![Lucas-Silva-Amaral GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Silva-Amaral&show_icons=true&theme=midnight-purple)
