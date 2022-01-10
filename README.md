@@ -8,7 +8,7 @@
 
 
 
-<h4 align="center"> My name is Lucas Amaral, I'm 26 years old and I'm studying <b> Javascript </b>.</h4>
+<h4 align="center"> My name is Lucas Amaral, I'm 27 years old and I'm studying <b> Javascript </b>.</h4>
 
 <h2 align="center"> Technologies </h2>
 
